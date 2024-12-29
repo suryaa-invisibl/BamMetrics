@@ -1,0 +1,7 @@
+{
+    "BamMetrics.bam": "s3://refdata-1/wdl-pipelines/biowdl/rnaseq/data/wgs1.bam",
+    "BamMetrics.bamIndex": "s3://refdata-1/wdl-pipelines/biowdl/rnaseq/data/wgs1.bai",
+    "BamMetrics.referenceFasta": "s3://refdata-1/wdl-pipelines/biowdl/rnaseq/data/reference/reference.fasta",
+    "BamMetrics.referenceFastaFai": "s3://refdata-1/wdl-pipelines/biowdl/rnaseq/data/reference/reference.fasta.fai",
+    "BamMetrics.referenceFastaDict": "s3://refdata-1/wdl-pipelines/biowdl/rnaseq/data/reference/reference.dict"
+}

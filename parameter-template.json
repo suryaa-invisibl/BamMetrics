@@ -1,0 +1,7 @@
+{
+    "BamMetrics.bam": {"description": "tests/data/wgs1.bam"},
+    "BamMetrics.bamIndex":{"description": "tests/data/wgs1.bai"},
+    "BamMetrics.referenceFasta":{"description": "tests/data/reference.fasta"},
+    "BamMetrics.referenceFastaFai":{"description": "tests/data/reference.fasta.fai"},
+    "BamMetrics.referenceFastaDict": {"description":"tests/data/reference.dict"}
+}
